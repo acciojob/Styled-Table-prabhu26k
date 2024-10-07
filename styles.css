@@ -1,1 +1,33 @@
 /* your code */
+.skyblue{
+	background-color:skyblue;
+}
+#table{
+
+	border-collapse:collapse;
+}
+.head{
+	background-color:blueviolet;
+}
+#name{
+	/* border:2px solid black; */
+	border-radius:10px 0px 0px 0px;
+}
+#win{
+	/* border:2px solid black; */
+	border-radius:0 10px 0 0;
+}
+th{
+	/* border:2px solid black; */
+	color:white;
+}
+th,td{
+	/* margin:20px; */
+	padding:20px;
+}
+#fruit{
+	border-radius:0 0 0 10px;
+}
+#num{
+	border-radius:0 0 10px 0;
+}
